@@ -49,4 +49,3 @@ def progress_bar():
         nuke.message('Select Roto Nodes')
 
 
-progress_bar()
